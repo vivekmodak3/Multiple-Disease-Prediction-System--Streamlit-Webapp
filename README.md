@@ -13,3 +13,7 @@ Procedure: • Import the necessary libraries and the diabetic and heart disease
 app.py is the streamlit app code. run the command "pip install -r requirements.txt" to install the required dependencies for the streamlit app.
 
 You may need to install additional libraries for running the jupyter notebooks.
+
+<img width="1360" height="827" alt="221213287-ad16d91d-b6df-4a80-a5ed-5ab28e230619" src="https://github.com/user-attachments/assets/6102d16e-da45-42ee-9984-dd96ddbfac2f" />
+
+<img width="1348" height="724" alt="221213196-e02f1700-f45d-436b-8e41-efa8dbc00411" src="https://github.com/user-attachments/assets/7b23f5c9-5df7-4e18-a87c-f086605a0f51" />
